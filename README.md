@@ -59,7 +59,7 @@ Just add more routes pointing to your controllers.
 
 ### Controllers
 All the controllers live in the <b>controllers</b> directory.<br/>
-Calling a controller in a browser is explained in the [Navigation](##navigation) section. </br>
+Calling a controller in a browser is explained in the [Navigation](#navigation) section. </br>
 Currently there is the snippet for the page.php controller.<br/>
 Every controller has to inherit from <b>Micromockup\config\Init</b>.<br/>
 In the constructor I usually init the Models I need.<br/>
