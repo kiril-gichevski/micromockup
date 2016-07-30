@@ -95,8 +95,8 @@ Then just write a normal PDO queries.
 ###Views
 The views live in the <b>views/page</b> directory. <br/>
 I like twig so there is a twig snippet in. All of the views inherit from <b>views/base.html.twig</b>.<br/>
-Currently you can extend the body and the title but feel free to change this. Also reference all the JS and CSS in the 
-<b>views/base.html.twig</b>.
+Currently you can extend the body and the title but feel free to change this. <br/>
+Also reference all the JS and CSS in the <b>views/base.html.twig</b>.
 
 
 
