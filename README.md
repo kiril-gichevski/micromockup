@@ -8,6 +8,9 @@ It should be used only for fast show cases. I usually use it when I go to job in
 and you have to do it fast but the time is limitted and you are not allowed to use a framework.
 You can all do in old PHP way just mixing everything up but that is just so messy.
 
+## Usage
+You should have composer installed on your maschine.<br/>
+Just clone the project from github and run <b>composer update</b>. This will install all the dependencies.
 ## Navigation
 The micromockup is just a small MVC so navigation is done through a front controller (index.php). <br/>
 Navigation is done in the next order <b>controller/action/argument1/argument2....</b></br>
