@@ -9,6 +9,7 @@ and you have to do it fast but the time is limitted and you are not allowed to u
 You can all do in old PHP way just mixing everything up but that is just so messy.
 
 ## Usage
+Assuming you use Apache you will need to configure Apache to use .htaccess files. <br/>
 You should have composer installed on your maschine.<br/>
 Just clone the project from github and run <b>composer update</b>. This will install all the dependencies.
 ## Navigation
